@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/secret-message-app/static/css/main.f38dc8a5.css",
-    "main.js": "/secret-message-app/static/js/main.8ba78e03.js",
+    "main.css": "/secret-message-app/static/css/main.3d608e70.css",
+    "main.js": "/secret-message-app/static/js/main.18ecbce8.js",
     "index.html": "/secret-message-app/index.html",
-    "main.f38dc8a5.css.map": "/secret-message-app/static/css/main.f38dc8a5.css.map",
-    "main.8ba78e03.js.map": "/secret-message-app/static/js/main.8ba78e03.js.map"
+    "main.3d608e70.css.map": "/secret-message-app/static/css/main.3d608e70.css.map",
+    "main.18ecbce8.js.map": "/secret-message-app/static/js/main.18ecbce8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f38dc8a5.css",
-    "static/js/main.8ba78e03.js"
+    "static/css/main.3d608e70.css",
+    "static/js/main.18ecbce8.js"
   ]
 }
