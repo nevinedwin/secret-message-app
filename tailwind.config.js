@@ -9,7 +9,7 @@ module.exports = {
         dark: "#1b263b",
         light: "#e0e1dd",
         primary: "#778da9",
-        secondary: "#415a77"
+        secondary: "#415a79"
       }
     },
     screens:{
