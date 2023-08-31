@@ -12,7 +12,8 @@ const router = createBrowserRouter([
 function App() {
   return (
     <div className="w-full h-[100vh] bg-dark ">
-     <RouterProvider router={router}/>
+     {/* <RouterProvider router={router}/> */}
+     <PdfDecoder/>
     </div>
 
 
